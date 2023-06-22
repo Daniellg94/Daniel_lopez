@@ -26,4 +26,3 @@ Mi objetivo es contribuir a proyectos innovadores y colaborar con profesionales 
 - Correo: Daniel.L1.G@hotmail.com
 - LinkedIn: [Perfil de LinkedIn](https://www.linkedin.com/in/daniel-lopez-gallego-89a358185/)
 
-¡Espero que esto mejore tu README en Github!
